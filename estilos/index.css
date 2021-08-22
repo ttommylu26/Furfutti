@@ -1,0 +1,29 @@
+/* section--1 */
+.section-1{
+    padding: 1.5mm;
+}
+
+.section-1--titulo--hr{
+    width: 144px;
+}
+
+/* articulos destacados */
+.articulos-destacados--hr{
+    margin-top: 2mm;
+    margin-bottom: 3mm;
+    margin-left: 140px;
+}
+
+    /* articulo destacado */
+    .articulo-destacado{
+        margin-top: 2mm;
+    }
+
+    .articulo-destacado img{
+        width: 100%;
+    }
+
+    .articulo-destacado h4{
+        text-decoration-line: underline;
+    }
+

@@ -1,0 +1,58 @@
+/* general */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Rajdhani';
+}
+
+a{
+    text-decoration-line: none;
+    color: black;
+}
+/* general */
+
+/* header */
+header{
+    background-color: rgb(28, 40, 51);
+    color: white;
+    padding: 1.5mm;
+    display: flex;
+    align-items: center;
+}
+
+header h1{
+    margin-top: -7px;
+    opacity: 60%;
+
+}
+
+header p{
+    font-weight: 100;
+    opacity: 60%;
+}
+
+header img{
+    width: 30px;
+    opacity: 60%;    
+    position: absolute;
+    right: 10px;
+}
+/* header */
+
+/* aviso especial covid */
+.aviso-covid{
+    padding: 1.5mm;
+    background-color: rgb(220, 220, 220);
+}
+
+.aviso-covid div{
+    display: flex;
+    align-items: center;
+}
+
+.aviso-covid img{
+    width: 13px;
+    margin-right: 1.5mm;
+}
+/* aviso especial covid */
+
