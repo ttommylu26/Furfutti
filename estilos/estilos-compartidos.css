@@ -43,6 +43,7 @@ header img{
 .aviso-covid{
     padding: 1.5mm;
     background-color: rgb(220, 220, 220);
+    text-decoration-line: underline;
 }
 
 .aviso-covid div{
@@ -50,9 +51,14 @@ header img{
     align-items: center;
 }
 
-.aviso-covid img{
+.advertencia-icon{
     width: 13px;
     margin-right: 1.5mm;
+}
+
+.external-link-icon{
+    width: 10px;
+    margin-left: 1mm;
 }
 /* aviso especial covid */
 
